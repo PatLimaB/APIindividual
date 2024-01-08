@@ -1,0 +1,39 @@
+body {
+    background-image: url(./imgs/fondo.jpg);
+    background-repeat: repeat;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #FFFFFD;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: #FFFFFD;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover, .btn-primary:hover, .btn-primary:active {
+    background-color: #FFE5A5;
+    color: #212529;
+}
+
+.btn-secondary,
+.btn-secondary:hover, .btn-secondary:active {
+    background-color: #FFE5A5;
+    color: #212529;
+    border: none;
+}
+
+.btn-primary {
+    background-color: #212529;
+    color: #FFFFFD;
+}
+
+.container label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+header image {
+    width: 70%;
+    height: auto;
+}
